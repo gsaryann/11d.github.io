@@ -282,6 +282,8 @@ ul {
 .table__item td {
     width: 50vh;
     margin: auto 0;
+    color: white;
+    text-shadow: 3px 3px 2px black;
 }
 
 .main__news {
